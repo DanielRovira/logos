@@ -1,0 +1,44 @@
+{
+    "name": "CONSTEM",
+    "short_name": "CONSTEM",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "favicon.ico",
+          "sizes": "48x48",
+          "type": "image/x-icon"
+        },
+        {
+          "src": "full.jpg",
+          "type": "image/png",
+          "sizes": "858x371"
+        },
+        {
+            "src":"android-chrome-192x192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"android-chrome-512x512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ],
+    "screenshots": [
+        {
+          "src": "screenshot.png",
+          "type": "image/png",
+          "sizes": "378x669",
+          "form_factor": "wide"
+        },
+        {
+          "src": "screenshot.png",
+          "type": "image/png",
+          "sizes": "378x669"
+        }
+      ]
+  }
